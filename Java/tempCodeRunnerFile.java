@@ -1,1 +1,0 @@
-System.out.println(circle.get(position-1));
